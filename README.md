@@ -1,4 +1,4 @@
-# BetweenGroupsStudio
+# BetweenGroups Studio
 
 Engineering intelligent software.
 
