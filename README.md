@@ -1,4 +1,4 @@
-# GunaStudio
+# BetweenGroupsStudio
 
 Engineering intelligent software.
 
